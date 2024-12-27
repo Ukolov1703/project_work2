@@ -1,0 +1,6 @@
+[user]
+name = danil
+email = ukollov@inbox.ru
+
+[alias]
+history = log --graph
